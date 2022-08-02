@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MFs=('blue' 'green' 'red')
+MFs=('blue' 'green' 'red' 'app')
 
 for MF in "${MFs[@]}"
 do
